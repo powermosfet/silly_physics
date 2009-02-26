@@ -1,0 +1,3 @@
+fysikk.py is a quick and dirty test of physics simulation.
+Try "load", "print" and "go" to watch the default settings.
+to change a value, type "variable:value"
